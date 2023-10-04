@@ -1,0 +1,24 @@
+.nav {
+  padding: 16px 64px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+.nav:hover {
+  cursor: pointer;
+}
+
+.item {
+  font-weight: bold;
+  display: flex;
+  gap: 50px;
+  font-size: 1.125rem;
+}
+
+/* .item:hover {
+  color: -webkit-link;
+} */
